@@ -46,7 +46,7 @@ This guide will walk you through all of the steps required to getting homebrew a
    :hidden:
    
    /usingcfw/hekate
-   /usingcfw/installnsps
+   /usingcfw/backingupgames
    /usingcfw/manualupgrade
    /usingcfw/manualchoiupgrade
 
