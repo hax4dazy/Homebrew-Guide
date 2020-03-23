@@ -6,9 +6,9 @@
 emuMMC
 ================================
 
-.. warning::
+.. Waarschuwing::
 
-    Read absolutely everything on this page!
+    Lees alles op deze pagina!
 
 emuMMC is a method of creating a complete duplicate of your Switch's internal storage on your SD card and running your Switch from that copy. This allows you to essentially have multiple separate
 installations of the Switch's operating system. This is useful for:

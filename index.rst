@@ -6,7 +6,7 @@
 The Ultimate Noob Guide for Hacking your Nintendo Switch
 ========================================================
 
-Want to hack your Nintendo Switch but don't know where to start? Just follow this guide!
+Wil je je switch hacken maar je weet niet waar je moet beginnen? Kijk niet veder!
 
 This guide will walk you through all of the steps required to getting homebrew and custom firmware on a previously unmodified Nintendo Switch.
 
